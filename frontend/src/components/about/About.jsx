@@ -11,7 +11,7 @@ export default function About({ innerRef }) {
   useEffect(() => {
     async function fetchSkills() {
       try {
-        const response = await fetch('http://localhost:8888/api/skills'); // Adjust URL if needed
+        const response = await fetch('https://portfolio-backend-api-dun.vercel.app/api/skills'); // Adjust URL if needed
         const data = await response.json();
 
         // Check if data is an array and has at least one item

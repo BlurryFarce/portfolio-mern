@@ -9,7 +9,7 @@ export default function Portfolio({ innerRef }) {
   useEffect(() => {
     async function fetchProjects() {
       try {
-        const response = await fetch("http://localhost:8888/api/projects");
+        const response = await fetch("https://portfolio-backend-api-dun.vercel.app/api/projects");
         const data = await response.json();
 
         // Check if data is an array and has at least one item
