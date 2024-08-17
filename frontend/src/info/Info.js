@@ -1,7 +1,4 @@
 import self from "../assets/img/self.png"
-import project1 from "../assets/img/project1.png"
-import project2 from "../assets/img/project2.png"
-import projectDefualt from "../assets/img/project-default.png"
 
 
 
@@ -27,11 +24,11 @@ export const info = {
         },
         {
             emoji: '🌎',
-            text: 'based in Toronto, Canada'
+            text: 'Based in Toronto, Canada'
         },
         {
             emoji: "💼",
-            text: "Full Stack Developer"
+            text: "Full Stack Developer at Community of Guardians"
         },
        
         {
