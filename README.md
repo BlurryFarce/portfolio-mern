@@ -1,6 +1,6 @@
 # Portfolio
 
-[**View Portfolio**](https://portfolio-zeta-five-86.vercel.app/)
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Click%20Here-00c4ff?style=for-the-badge&logo=vercel)](https://portfolio-zeta-five-86.vercel.app/)
 
 ## About the Project
 
