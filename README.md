@@ -1,6 +1,6 @@
 # Portfolio
 
-[![Vercel Deployment](https://vercel.com/button)](https://portfolio-zeta-five-86.vercel.app/)
+[**View Portfolio**](https://portfolio-zeta-five-86.vercel.app/)
 
 ## About the Project
 
