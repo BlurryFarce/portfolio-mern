@@ -1,4 +1,4 @@
-# Personal Portfolio (MERN Stack)
+# Portfolio
 
 [![Vercel Deployment](https://vercel.com/button)](https://portfolio-zeta-five-86.vercel.app/)
 
